@@ -49,7 +49,8 @@ Git · GitHub · Postman · Docker
 ## 🏆 Certifications
 
 - **Infosys Springboard Internship 7.0 (B1)**: Workforce Knowledge Intelligence Platform for Skill Gap and Learning Optimization (Jun – Aug 2026)
-- **NPTEL (IIT Kharagpur)**: Data Structure and Algorithms using Java, 75% (Jul – Oct 2026)
+- **NPTEL (IIT Kharagpur)**: Data Structure and Algorithms using Java, Silver+Elite (Jul – Oct 2026)
+- **NPTEL (IIT Kharagpur)**: Programming using Java, Silver+Elite (Jan – April 2026)
 - **MongoDB Associate Developer**
 - **HackerRank**: Problem Solving (Intermediate), Nov 2025
 - **Infosys Springboard**: Java Certified Foundations Associate: Basic Elements (Oct 2025)
