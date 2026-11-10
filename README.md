@@ -69,6 +69,6 @@ Git · GitHub · Postman · Docker
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username) · ✉️ [aditisawkhedkarcsmss@gmail.com](mailto:aditisawkhedkarcsmss@gmail.com)
+💼 [LinkedIn] (www.linkedin.com/in/aditi-sawkhedkar) · 💻 [GitHub] (https://github.com/sawkhedkaraditi-infy)· ✉️ [aditisawkhedkarcsmss@gmail.com](mailto:aditisawkhedkarcsmss@gmail.com)
 
 I'm open to Software Development Engineer and Full Stack Developer (Java + React) opportunities.
